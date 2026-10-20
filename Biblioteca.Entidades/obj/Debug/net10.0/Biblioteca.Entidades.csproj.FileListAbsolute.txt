@@ -1,0 +1,11 @@
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\Biblioteca.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\Biblioteca.Entidades.AssemblyInfoInputs.cache
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\Biblioteca.Entidades.AssemblyInfo.cs
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\Biblioteca.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\bin\Debug\net10.0\Biblioteca.Entidades.deps.json
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\bin\Debug\net10.0\Biblioteca.Entidades.dll
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\bin\Debug\net10.0\Biblioteca.Entidades.pdb
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\Biblioteca.Entidades.dll
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\refint\Biblioteca.Entidades.dll
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\Biblioteca.Entidades.pdb
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Entidades\obj\Debug\net10.0\ref\Biblioteca.Entidades.dll

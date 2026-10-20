@@ -1,0 +1,15 @@
+c:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\bin\Debug\net10.0\Biblioteca.Datos.deps.json
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\bin\Debug\net10.0\Biblioteca.Datos.dll
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\bin\Debug\net10.0\Biblioteca.Datos.pdb
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\bin\Debug\net10.0\Biblioteca.Entidades.dll
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\bin\Debug\net10.0\Biblioteca.Entidades.pdb
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Biblioteca.Datos.csproj.AssemblyReference.cache
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Biblioteca.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Biblioteca.Datos.AssemblyInfoInputs.cache
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Biblioteca.Datos.AssemblyInfo.cs
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Biblioteca.Datos.csproj.CoreCompileInputs.cache
+c:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Bibliote.7016963B.Up2Date
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Biblioteca.Datos.dll
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\refint\Biblioteca.Datos.dll
+C:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\Biblioteca.Datos.pdb
+c:\Users\servel\Downloads\bibiltecabd\Biblioteca.Datos\obj\Debug\net10.0\ref\Biblioteca.Datos.dll
